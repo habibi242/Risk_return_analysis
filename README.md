@@ -1,6 +1,6 @@
 # Risk_return_analysis
 
-This is a command-line interface application that allows users to see if they qualafied for the loan in matter of seconds. 
+this application designed to do quantitive analysis on specific companiess and markets
 ---
 
 ## Technologies
